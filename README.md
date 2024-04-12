@@ -26,5 +26,5 @@ I am a Full Stack Developer from India. I am a quick learner, a team player and 
 
 ## :mailbox: How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sumit-sharma-b0a8411b2/))
-[![Gmail Badge](https://img.shields.io/badge/-kakbar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sharmasumit96643@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sumit-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sumit-sharma-b0a8411b2/))
+[![Gmail Badge](https://img.shields.io/badge/-sharmasumit96643@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sharmasumit96643@gmail.com)
