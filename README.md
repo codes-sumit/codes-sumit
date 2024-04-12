@@ -18,7 +18,7 @@ I am a recent graduate in Computer Science with a focus on data analysis and sta
 
 ## :woman_technologist: About Me :
 
-I am a Full Stack Developer from India. I am a quick learner, a team player and have good problem-solving skills. I am always eager to learn new technologies and enhance my skills. I am also a member of Data Science Club at my university.
+Hi there, I'm Sumit Sharma, a recent graduate in Computer Science with a focus on data analysis and statistics. I am passionate about using data to drive business decisions and I am eager to start my career as a data analyst.
 
 ## :fire: My Stats :
 
