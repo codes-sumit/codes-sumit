@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- Hi there, I'm Sumit Sharnma 👋
+ Hi there, I'm Sumit Sharma 👋
 
 I am a recent graduate in Computer Science with a focus on data analysis and statistics. I am passionate about using data to solve complex problems and drive business decisions. I have experience working with data analysis tools such as SQL, Python, R, and Excel, and I am proficient in statistical analysis, data visualization, and machine learning.
 
